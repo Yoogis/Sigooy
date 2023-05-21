@@ -1,0 +1,18 @@
+def method2():
+    print ("                       _________                            ")
+    print ("                      /         \                           ")
+    print ("                     /           \                 / \      ")
+    print ("                    /             \               /   \     ")
+    print ("       / \           |           |                /   \     ")
+    print ("      /   \          |           |---\           /     \    ")
+    print ("     /     \         |           |    \         /       \   ")
+    print ("      /   \          |           |     \         /     \    ")
+    print ("     /     \         |           |     |        /       \   ")
+    print ("    /       \        |    ____   |     |       /         \  ")
+    print ("       | |           |    |  |   |     |           | |      ")
+    print ("       | |           |    |  |   |     |           | |      ")
+    print ("^-^^^-^-^^-^-^-^^---^^-^-^^-^-^^^^-^-^-^--^-^-^^-^-^^-^-^-^^")
+    print ("o           o         o o        o               o  o       ")
+    print ("     o               o                            o         ")
+
+    enter = input("Press enter to continue.")
